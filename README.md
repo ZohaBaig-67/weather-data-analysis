@@ -29,4 +29,4 @@ streamlit run app.py
 - `.gitignore` — excludes virtual environments and secrets
 
 ## Live app
-Add your deployed Streamlit URL here after deployment.
+https://weather-data-analysis-2222.streamlit.app/
